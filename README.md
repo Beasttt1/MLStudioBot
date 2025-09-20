@@ -88,7 +88,7 @@ For bugs or issues → contact the support team.
 
 ## 🧑‍💻 توسعه‌دهنده / Developer
 - سازنده: **[Your Name / Team]**  
-- آیدی ادمین: `381183017`
+- آیدی ادمین: `@Beast3694`
 
 ---
 
