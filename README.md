@@ -92,10 +92,7 @@ For bugs or issues → contact the support team.
 
 photo of the bot for showing:
 
-https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudioBot1.png
-      https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudioBot.png
-      https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudio1.png
-      https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudio.png
+https://imgur.com/a/MDM506v
 
 ---
 
