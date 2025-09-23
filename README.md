@@ -92,7 +92,7 @@ For bugs or issues → contact the support team.
 
 photo of the bot for showing:
 
-https://imgur.com/a/MDM506v
+https://i.imgur.com/4o4pmOv.png
 
 ---
 
