@@ -1,0 +1,13 @@
+{
+  "MLStudioBot": {
+    "description": "ربات تلگرام Mobile Legends برای تحلیل عملکرد و هم‌تیمی.",
+    "images": [
+      "https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudioBot1.png",
+      "https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudioBot.png",
+      "https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudio1.png",
+      "https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudio.png"
+    ],
+    "telegram": "https://t.me/MLStudioBot",
+    "github": "https://github.com/Beasttt1/MLStudioBot"
+  }
+}
