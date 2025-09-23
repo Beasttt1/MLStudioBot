@@ -89,7 +89,13 @@ For bugs or issues → contact the support team.
 ## 🧑‍💻 توسعه‌دهنده / Developer
 - سازنده: **[Your Name / Team]**  
 - آیدی ادمین: `@Beast3694`
-- عکس لوگو ربات: `https://imgur.com/a/MDM506v`
+
+photo of the bot for showing:
+
+https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudioBot1.png
+      https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudioBot.png
+      https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudio1.png
+      https://raw.githubusercontent.com/Beasttt1/MLStudioBot/main/MLStudio.png
 
 ---
 
